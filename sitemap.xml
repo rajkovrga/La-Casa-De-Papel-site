@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.95</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/index.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.95</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/episodes.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.80</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/actors.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.60</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/gallery.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.60</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/author.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.50</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/63_17/contact.html</loc>
+  <lastmod>2019-19-01</lastmod>
+  <priority>0.50</priority>
+  <changeFreq>Montly</changeFreq>
+  </url>
+</urlset>
